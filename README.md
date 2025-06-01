@@ -1,5 +1,7 @@
 # Expense Tracker API
-Project idea taking from: https://roadmap.sh/projects/expense-tracker-api
+
+## Requirements
+https://roadmap.sh/projects/expense-tracker-api
 ## Setup
 1. In root directory run `./gradlew clean build -x test`
 2. Run the docker file to run the database and the Spring boot project using `docker compose up --build`
